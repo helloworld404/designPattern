@@ -1,4 +1,4 @@
-package com.fighting.segregation.demo1;
+package com.fighting.principle.segregation.demo1;
 
 /**
  * @Description

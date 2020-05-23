@@ -1,4 +1,4 @@
-package com.fighting.singleresponsibility.demo1;
+package com.fighting.principle.singleresponsibility.demo1;
 
 /**
  * @Description 交通工具类

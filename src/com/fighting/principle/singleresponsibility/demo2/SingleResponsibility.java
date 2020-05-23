@@ -1,4 +1,4 @@
-package com.fighting.singleresponsibility.demo2;
+package com.fighting.principle.singleresponsibility.demo2;
 
 /**
  * @Description
