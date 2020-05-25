@@ -15,6 +15,6 @@ public class AbstractFactoryTest {
         Phone huaweiPhone = huaWeiFactory.makePhone();
         Computer huaWeiComputer = huaWeiFactory.makeComputer();
 
-
     }
+
 }

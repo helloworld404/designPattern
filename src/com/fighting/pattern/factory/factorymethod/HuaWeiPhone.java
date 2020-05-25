@@ -12,5 +12,4 @@ public class HuaWeiPhone implements Phone {
     public Phone make() {
         return new HuaWeiPhone("麒麟");
     }
-
 }

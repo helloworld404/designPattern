@@ -12,6 +12,4 @@ public class XiaoMiPhone implements Phone {
     public Phone make() {
         return new XiaoMiPhone("骁龙");
     }
-
-
 }

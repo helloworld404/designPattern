@@ -2,10 +2,10 @@ package com.fighting.pattern.factory.simplefactory;
 
 public class PhoneFactory {
     public Phone makePhone(String phoneType) {
-        if(phoneType.equalsIgnoreCase("XiaoMi")){
+        if("XiaoMi".equalsIgnoreCase(phoneType)){
             return new XiaoMiPhone().make();
         }
-        else if(phoneType.equalsIgnoreCase("HuaWei")) {
+        else if("HuaWei".equalsIgnoreCase(phoneType)) {
             return new HuaWeiPhone().make();
         }
         return null;

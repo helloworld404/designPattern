@@ -66,9 +66,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="156" />
-    <option name="y" value="172" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="765" />
+    <option name="y" value="115" />
     <option name="width" value="1621" />
     <option name="height" value="1054" />
   </component>
@@ -128,33 +128,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="fighting" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fighting" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fighting" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="demeter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fighting" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="demeter" type="462c0819:PsiDirectoryNode" />
-              <item name="demo1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -166,7 +139,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590249296393" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590249311054" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -260,7 +233,7 @@
       <workItem from="1589716585204" duration="1333000" />
       <workItem from="1589731681706" duration="170000" />
       <workItem from="1589988690334" duration="2211000" />
-      <workItem from="1590247327446" duration="1807000" />
+      <workItem from="1590247327446" duration="2071000" />
     </task>
     <task id="LOCAL-00001" summary="接口隔离原则(Interface Segregation Principle)">
       <created>1589707913546</created>
@@ -283,11 +256,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589988728099</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="单例模式">
+      <created>1590249315834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590249315834</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14808000" />
+    <option name="totallyTimeSpent" value="15072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />

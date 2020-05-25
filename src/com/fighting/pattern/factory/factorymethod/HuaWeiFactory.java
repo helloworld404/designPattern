@@ -1,6 +1,6 @@
 package com.fighting.pattern.factory.factorymethod;
 
-public class HuaWeiFactory implements AbstractFactory{
+public class HuaWeiFactory implements PhoneFactory{
 
     @Override
     public Phone makePhone() {
