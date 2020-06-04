@@ -1,7 +1,7 @@
 package com.fighting.pattern.adapter.classAdapter;
 
 /**
-* @Description 
+* @Description 类适配器模式测试
 * @Author: LiuXing
 * @Date: 2020/5/26 23:26
 */

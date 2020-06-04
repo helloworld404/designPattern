@@ -1,6 +1,6 @@
 package com.fighting.pattern.factory.abstractFactory;
 /**
-* @Description 
+* @Description 抽象工厂模式测试
 * @Author: LiuXing
 * @Date: 2020/5/23 21:08
 */

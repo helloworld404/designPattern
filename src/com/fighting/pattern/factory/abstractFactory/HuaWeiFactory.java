@@ -1,6 +1,11 @@
 package com.fighting.pattern.factory.abstractFactory;
 
-public class HuaWeiFactory implements AbstractFactory{
+/**
+ * @Description
+ * @Author: LiuXing
+ * @Date: 2020/5/28 21:32
+ */
+public class HuaWeiFactory implements AbstractFactory {
 
     @Override
     public Phone makePhone() {

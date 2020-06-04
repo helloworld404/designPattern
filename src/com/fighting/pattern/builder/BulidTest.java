@@ -1,6 +1,6 @@
 package com.fighting.pattern.builder;
 /**
-* @Description 
+* @Description 建造者模式测试
 * @Author: LiuXing
 * @Date: 2020/5/26 22:57
 */

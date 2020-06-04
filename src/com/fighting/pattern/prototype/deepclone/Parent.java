@@ -2,6 +2,12 @@ package com.fighting.pattern.prototype.deepclone;
 
 import java.io.Serializable;
 
+
+/**
+ * @Description
+ * @Author: LiuXing
+ * @Date: 2020/5/28 21:32
+ */
 public class Parent implements Serializable, Cloneable{
 
     private String name;

@@ -1,6 +1,6 @@
 package com.fighting.pattern.adapter.defaultAdapter;
 /**
-* @Description 
+* @Description 接口适配器模式
 * @Author: LiuXing
 * @Date: 2020/5/26 23:48
 */

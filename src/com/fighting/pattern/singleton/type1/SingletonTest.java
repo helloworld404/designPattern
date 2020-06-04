@@ -1,7 +1,7 @@
 package com.fighting.pattern.singleton.type1;
 
 /**
- * @Description
+ * @Description 单例模式
  * @Author LiuXing
  * @Date 2020/05/21 23:03
  */
