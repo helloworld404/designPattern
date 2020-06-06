@@ -3,7 +3,7 @@ package com.fighting.pattern.flyweight;
 import java.util.HashMap;
 
 /**
- * @Description
+ * @Description 电脑工厂
  * @Author: LiuXing
  * @Date: 2020/5/28 21:32
  */

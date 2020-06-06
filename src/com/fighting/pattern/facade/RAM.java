@@ -25,5 +25,4 @@ public class RAM {
         System.out.println("写入内存");
     }
 
-
 }

@@ -1,7 +1,7 @@
 package com.fighting.pattern.decorator;
 
 /**
- * @Description
+ * @Description 重新父类方式，扩展功能
  * @Author: LiuXing
  * @Date: 2020/5/28 21:32
  */

@@ -1,7 +1,7 @@
 package com.fighting.pattern.flyweight;
 
 /**
- * @Description
+ * @Description 具体的电脑实体类
  * @Author: LiuXing
  * @Date: 2020/5/28 21:32
  */

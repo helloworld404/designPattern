@@ -4,14 +4,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Description
+ * @Description 省份
  * @Author: LiuXing
  * @Date: 2020/5/28 21:32
  */
 public class Province extends Borough {
 
     //List
-    List<Borough> boroughs = new ArrayList<Borough>();
+    List<Borough> boroughs = new ArrayList<>();
 
     public Province(String name) {
         super(name);

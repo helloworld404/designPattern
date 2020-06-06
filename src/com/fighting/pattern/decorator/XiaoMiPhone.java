@@ -1,7 +1,7 @@
 package com.fighting.pattern.decorator;
 
 /**
- * @Description
+ * @Description 小米手机有打电话功能
  * @Author: LiuXing
  * @Date: 2020/5/28 21:32
  */

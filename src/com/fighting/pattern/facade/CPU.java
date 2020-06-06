@@ -26,5 +26,4 @@ public class CPU {
         System.out.println("调用CPU");
     }
 
-
 }
